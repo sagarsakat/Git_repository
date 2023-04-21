@@ -1,5 +1,3 @@
-package Day4;
-
 public class PatternABCD {
 
 	public static void main(StringExample[] args) {
